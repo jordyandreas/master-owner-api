@@ -1,0 +1,40 @@
+{
+  "owners": [
+    {
+      "id": "9ed519d7-c0d2-4e60-94cb-05c0c4f2179a",
+      "name": "Alice R.",
+      "phone": "081234567890",
+      "cats": [
+        {
+          "id": "335fe0ec-761c-4bfc-ade8-d8a5d024cce6",
+          "name": "Mittens",
+          "age": 2
+        },
+        {
+          "id": "262003c0-c627-4e34-a6c4-1cceb30abf89",
+          "name": "Whiskers",
+          "age": 4
+        }
+      ]
+    },
+    {
+      "id": "ac0e46dd-0cce-42f2-b25a-a3fcd01d5c54",
+      "name": "Bob K.",
+      "phone": "081299988777",
+      "cats": [
+        {
+          "id": "a5a43034-9fff-43d8-9ed5-7f499c8aa166",
+          "name": "Tiger",
+          "age": 1
+        }
+      ]
+    },
+    {
+      "id": "582c7e13-25c3-44cf-9611-6467edfafde9",
+      "name": "Charlie L.",
+      "phone": "081211122233",
+      "cats": []
+    }
+  ],
+  "masterOwnerId": "582c7e13-25c3-44cf-9611-6467edfafde9"
+}
